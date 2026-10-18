@@ -1,8 +1,8 @@
 class Jprot < Formula
   desc "Portfolio site generator without a build step"
   homepage "https://github.com/Moaaz-i/JPROT"
-  url "https://registry.npmjs.org/jprot/-/jprot-0.9.1.tgz"
-  sha256 "6f013e32261e17ca3c0d6fe736343ae1ac668fae1422c94606d82bd91f485f2a"
+  url "https://registry.npmjs.org/jprot/-/jprot-0.10.1.tgz"
+  sha256 "33b689d5ba4b6e43acc6aa4aea57b61fba4f9b357a2dc9aef4343ac369726dcc"
   license "MIT"
 
   depends_on "node"
